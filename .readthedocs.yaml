@@ -22,4 +22,4 @@ build:
       - VIRTUAL_ENV=$READTHEDOCS_VIRTUALENV_PATH poetry install --with docs
 
 mkdocs:
-  configuration: mkdocs.yml
+  configuration: mkdocs.yaml
